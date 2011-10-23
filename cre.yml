@@ -1,0 +1,15 @@
+:title: Chaosradio Express
+:subtitle: Der Interview-Podcast zu Technik, Gesellschaft und Kultur
+:url: http://chaosradio.ccc.de/chaosradio_express.html
+:language: de
+:copyright: Creative Commons Namensnennung-NichtKommerziell-KeineBearbeitung 2.0 Germany License
+:author: Tim Pritlove
+:description: Chaosradio Express ist ein seit 2005 erscheinender Interview-Podcast rund um die Themen Technologie, Gesellschaft und Kultur. Moderator Tim Pritlove führt in jeder Ausgabe ausführliche Gespräche mit kompetenten Gästen, die den Details und Hintergründen technischer und gesellschaftlicher Zusammenhänge auf die Spur kommen sollen.
+:owner:
+  :name: Tim Pritlove
+  :email: tim@pritlove.org
+:image_url: http://chaosradio.ccc.de/chaosradio_express-logo-300x300.jpg
+:categories: 
+  - Technology
+:explicit: No
+:keywords: [Interviews, Expert, Hacking, Technology, Politics, Science, Society, Community]
